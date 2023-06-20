@@ -1,5 +1,5 @@
 # JSON-to-Database
-Multi-language implementation of scripts that convert JSON files to relational databases.
+Multi-language implementation of a script that automatically converts JSON files to relational databases.
 
 
 ## Problem Description and Use Cases
